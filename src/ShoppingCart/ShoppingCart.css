@@ -1,0 +1,17 @@
+.shoping-cart {
+  display: grid;
+  grid-template-columns: 4fr 1fr;
+  gap: 33px;
+}
+.product-cart {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 33px;
+  padding-top: 70px;
+  padding-left: 33px;
+}
+.summary {
+  height: 100vh;
+  background-color: #ffe0b3;
+  padding: 15px;
+}

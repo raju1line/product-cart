@@ -1,0 +1,27 @@
+.navbar {
+  background-color: #1c2b35;
+  height: 88px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 48px;
+  padding-right: 48px;
+}
+.header-logo {
+  text-align: center;
+}
+.header-link a {
+  text-align: center;
+  text-decoration: none;
+  margin-right: 15px;
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 20px;
+  color: #FFFFFF;
+  transition: .2s;
+}
+.header-link a:hover{
+color: orangered;
+}
