@@ -1,0 +1,7 @@
+.summary {
+  height: 100vh;
+  background-color: #ffe0b3;
+  padding: 15px;
+  position: sticky;
+  top: 0;
+}
